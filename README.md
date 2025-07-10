@@ -1,12 +1,88 @@
-# React + Vite
+# React Model Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🚀 [Live Demo](https://react-model-portfolio.vercel.app/)
 
-Currently, two official plugins are available:
+A sleek and responsive portfolio website built using **React**. Perfect for showcasing personal projects, professional experience, and social presence. This is a demo website intended to illustrate a modern, minimalist portfolio design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![React Model Portfolio Screenshot](https://react-model-portfolio.vercel.app/preview.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- ⚛️ Built with React  
+- 📱 Fully responsive design  
+- 🖼️ Hero image and profile introduction  
+- 🧾 About, Portfolio, and Contact sections  
+- 🌐 Social media links  
+- 🎨 Clean, modern, and minimalist UI  
+
+---
+
+## 📂 Folder Structure
+
+root  
+├── public/  
+│ └── assets/  
+├── src/  
+│ ├── components/  
+│ ├── pages/  
+│ ├── App.js  
+│ └── index.js  
+├── .gitignore  
+├── package.json  
+└── README.md  
+
+---
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js & npm 
+
+### Installation
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/react-model-portfolio.git 
+
+cd react-model-portfolio
+```
+2. Install the dependencies
+```bash
+npm install
+```
+### Running Locally
+
+```bash
+npm run dev
+```
+Visit: http://localhost:5173
+
+---
+
+## 🛠️ Built With
+
+- React
+- CSS Modules / SCSS / Styled-components (depends on your setup)
+- Vercel for deployment
+
+##  📦 Deployment
+This project is deployed with Vercel. To deploy your own version:
+
+- Fork the repo
+- Push to your GitHub
+- Import it into Vercel
+
+Vercel will handle the build and give you a live link in seconds.
+
+## 📬 Contact
+Feel free to reach out if you want to collaborate or have any feedback:
+
+### 📧 Email: [dhruvverma.dev@gmail.com](mailto:dhruvverma.dev@gmail.com)  
+### 🌐 Portfolio: [dhruvverma.tech](http://dhruvverma.tech)
+ 
+## 📄 License
+This project is open-source and available under the MIT License.
+
+---
+Let me know if you'd like me to tailor it with your **name**, **GitHub username**, or **contact details**.
