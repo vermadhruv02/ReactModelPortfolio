@@ -4,7 +4,7 @@
 
 A sleek and responsive portfolio website built using **React**. Perfect for showcasing personal projects, professional experience, and social presence. This is a demo website intended to illustrate a modern, minimalist portfolio design.
 
-![React Model Portfolio Screenshot](https://react-model-portfolio.vercel.app/preview.png)
+![React Model Portfolio Screenshot](https://res.cloudinary.com/ducahghzl/image/upload/v1754672393/Dhruv-Verma-portfolio_oazjjq.png)
 
 ---
 
@@ -43,7 +43,7 @@ root
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/react-model-portfolio.git 
+git clone https://github.com/vermadhruv02/ReactModelPortfolio.git   
 
 cd react-model-portfolio
 ```
